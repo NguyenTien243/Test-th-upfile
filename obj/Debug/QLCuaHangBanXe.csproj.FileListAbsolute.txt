@@ -1,0 +1,116 @@
+C:\Users\nk\source\repos\QLCuaHangBanXe\bin\Debug\QLCuaHangBanXe.exe.config
+C:\Users\nk\source\repos\QLCuaHangBanXe\bin\Debug\QLCuaHangBanXe.exe
+C:\Users\nk\source\repos\QLCuaHangBanXe\bin\Debug\QLCuaHangBanXe.pdb
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.csprojAssemblyReference.cache
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form1.resources
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Properties.Resources.resources
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.csproj.GenerateResource.cache
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.csproj.CoreCompileInputs.cache
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.exe
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.pdb
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.DKTK.resources
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.MuaXe.resources
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.QLKhachHang.resources
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.QLNhanVien.resources
+C:\Users\nk\source\repos\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.QLXe.resources
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\bin\Debug\QLCuaHangBanXe.exe.config
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\bin\Debug\QLCuaHangBanXe.exe
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\bin\Debug\QLCuaHangBanXe.pdb
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.csprojAssemblyReference.cache
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.DKTK.resources
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form1.resources
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.MuaXe.resources
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.QLKhachHang.resources
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.QLNhanVien.resources
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Form_Layer.QLXe.resources
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.Properties.Resources.resources
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.csproj.GenerateResource.cache
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.csproj.CoreCompileInputs.cache
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.exe
+C:\Users\nk\Desktop\DOANCNTT\QLCuaHangBanXe\obj\Debug\QLCuaHangBanXe.pdb
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe.config
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.pdb
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csprojAssemblyReference.cache
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.DKTK.resources
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form1.resources
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.MuaXe.resources
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLKhachHang.resources
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLNhanVien.resources
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLXe.resources
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Properties.Resources.resources
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.GenerateResource.cache
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.CoreCompileInputs.cache
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.exe
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.pdb
+D:\Lập\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLHoaDon.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe.config
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.pdb
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csprojAssemblyReference.cache
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.DKTK.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form1.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.MuaXe.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLHoaDon.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLKhachHang.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLNhanVien.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLXe.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Properties.Resources.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.GenerateResource.cache
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.CoreCompileInputs.cache
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.exe
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.pdb
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe.config
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.pdb
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csprojAssemblyReference.cache
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.DKTK.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form1.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.MuaXe.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLHoaDon.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLKhachHang.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLNhanVien.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLXe.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Properties.Resources.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.GenerateResource.cache
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.CoreCompileInputs.cache
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.exe
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.pdb
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.ThongKeDoanhThu.resources
+C:\Users\nk\Desktop\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.ChiTietHoaDon.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe.config
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.pdb
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csprojAssemblyReference.cache
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.ChiTietHoaDon.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.DKTK.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form1.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.MuaXe.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLHoaDon.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLKhachHang.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLNhanVien.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLXe.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.ThongKeDoanhThu.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Properties.Resources.resources
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.GenerateResource.cache
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.CoreCompileInputs.cache
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.exe
+D:\Lapp\Năm 3 _ HK 1 _ 2020-2021\Đồ án CNTT 1\file đồ án\Đồ án CNTT 1\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.pdb
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe.config
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.exe
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\bin\Debug\QLCuaHangBanXe.pdb
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csprojAssemblyReference.cache
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.ChiTietHoaDon.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.DKTK.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form1.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.MuaXe.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLHoaDon.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLKhachHang.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLNhanVien.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.QLXe.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Form_Layer.ThongKeDoanhThu.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.Properties.Resources.resources
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.GenerateResource.cache
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.csproj.CoreCompileInputs.cache
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.exe
+D:\SPKT\Năm 3 HK1\Đồ án CNTT\Đồ án CNTT 1- Final\Đồ án CNTT 1- Final\QLCuaHangBanXe_DoAn1\obj\Debug\QLCuaHangBanXe.pdb
