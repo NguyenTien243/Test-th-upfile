@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿ahihi
 using QLCuaHangBanXe.DB_Layer;
+=======
+Bao Phuong﻿using QLCuaHangBanXe.DB_Layer;
+>>>>>>> 1445ef257ec4100c115c91f71d22ab9a32686ef8
 using System;
 using System.Collections.Generic;
 using System.Data;
