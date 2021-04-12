@@ -79,9 +79,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(191, 32);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(223, 38);
+            this.label3.Size = new System.Drawing.Size(252, 38);
             this.label3.TabIndex = 51;
-            this.label3.Text = "ĐĂNG NHẬP";
+            this.label3.Text = "ĐĂNG NHẬP 1";
             // 
             // label1
             // 
