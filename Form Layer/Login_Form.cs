@@ -76,7 +76,7 @@ namespace QLCuaHangBanXe
             {
                 if (txtTaiKhoan.Text.Trim() == dtNV.Rows[i][0].ToString().Trim() && txtMatKhau.Text.Trim() == dtNV.Rows[i][1].ToString().Trim())
                 {
-                    MessageBox.Show("Đăng nhập thành công !!");
+                    MessageBox.Show("Đăng nhập thành công roi TIen oi !!");
                     chứcNăngToolStripMenuItem.Enabled = true;
                     muaXeToolStripMenuItem.Enabled = true;
                     SHAREVAR.MaNV_TK = dtNV.Rows[i][2].ToString();
