@@ -52,7 +52,14 @@ namespace QLCuaHangBanXe.Form_Layer
         {
             // Tien vua them dong nay
             // Kích hoạt biến Sửa
+
+            Them = false;
+           
+          
+            // ok sua lai roi nha
+
             
+
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
