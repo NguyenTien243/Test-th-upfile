@@ -50,8 +50,9 @@ namespace QLCuaHangBanXe.Form_Layer
 
         private void btnSua_Click(object sender, EventArgs e)
         {
+            // Tien vua them dong nay
             // Kích hoạt biến Sửa
-            Them = false;
+            //Them = false;
             // Cho phép thao tác trên Panel
             this.pnlNV.Enabled = true;
             //dgvNV_CellClick(null, null);
