@@ -52,22 +52,7 @@ namespace QLCuaHangBanXe.Form_Layer
         {
             // Tien vua them dong nay
             // Kích hoạt biến Sửa
-            //Them = false;
-            // Cho phép thao tác trên Panel
-            this.pnlNV.Enabled = true;
-            //dgvNV_CellClick(null, null);
-            // Cho thao tác trên các nút Lưu / Hủy / Panel
-            this.btnLuu.Enabled = true;
-            this.btnHuy.Enabled = true;
-            this.pnlNV.Enabled = true;
-            // Không cho thao tác trên các nút Thêm / Xóa / Thoát
-            this.btnThem.Enabled = false;
-            this.btnSua.Enabled = false;
-            this.btnXoa.Enabled = false;
-            this.btnThoat.Enabled = false;
-            // Đưa con trỏ đến TextField txtMaKH
-            this.txtMaNV.Enabled = false;
-            this.txtTenNV.Focus();
+            
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
