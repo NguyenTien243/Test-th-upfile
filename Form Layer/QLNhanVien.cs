@@ -67,6 +67,8 @@ namespace QLCuaHangBanXe.Form_Layer
             // Đưa con trỏ đến TextField txtMaKH
             this.txtMaNV.Enabled = false;
             this.txtTenNV.Focus();
+            // Phuong vua them dong nay
+            // hom nay la ngay may
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
